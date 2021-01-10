@@ -1,0 +1,33 @@
+.main .sidebar-grid-container{
+    width: 15vw;
+}
+
+.main .sidebar-link{
+    display:inline-block;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.main .sidebar-chevron{
+    cursor: pointer;
+    margin-top:10px;
+    margin-left:10vw;
+}
+
+.main .sibebar-divider-container{
+    width:100%;
+}
+
+.main .sidebar-divider{
+    margin:20px 0;
+}
+
+@media (max-width: 599px){
+    .main .sidebar-divider{
+        margin:9px 0;
+    }
+
+    .main .sidebar-grid-container{
+        width: 40vw;
+    }
+}

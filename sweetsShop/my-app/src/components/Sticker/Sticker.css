@@ -1,0 +1,16 @@
+.main .sticker-main-container{
+    margin-top:120px;
+    padding-bottom:30px;
+}
+
+.main .sticker-img{
+    width:100%;
+}
+
+.main .sticker-grid-item{
+    margin: 15px 0;
+}
+
+.main .sticker-img-container{
+    width:100%;
+}
